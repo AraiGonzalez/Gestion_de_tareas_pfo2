@@ -1,0 +1,5 @@
+# Ignorar el archivo de base de datos
+tareas.db
+
+# Ignorar el entorno virtual
+.venv/
